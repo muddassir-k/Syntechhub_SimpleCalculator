@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Syntechhub Calculator</string>
+    <string name="calculator_title">Calculator</string>
+    <string name="calculator_hint">Kotlin · Android</string>
+    <string name="zero_division">Cannot divide by zero</string>
+    <string name="button_clear">C</string>
+    <string name="button_delete">⌫</string>
+    <string name="button_divide">÷</string>
+    <string name="button_multiply">×</string>
+    <string name="button_subtract">−</string>
+    <string name="button_add">+</string>
+    <string name="button_sign">±</string>
+    <string name="button_decimal">.</string>
+</resources>
